@@ -1,5 +1,5 @@
 # SCT_DA_4 - Marketing Campaign Performance Analysis Dashboard
-# SkillCraft Technology Data Analyst Internship - Task 04
+SkillCraft Technology Data Analyst Internship - Task 04
 # Project Overview
 
 This project was completed as part of the SkillCraft Technology Data Analyst Internship (SCT_DA_4).
@@ -52,5 +52,5 @@ The dashboard provides a comprehensive overview of marketing campaign performanc
 <img width="1168" height="652" alt="Marketing dashboard" src="https://github.com/user-attachments/assets/1d72756b-70e6-430c-82cc-4d5686289605" />
 
 # Author
-Mouni
+Athinarapu Mounika
 SkillCraft Technology – Data Analyst Intern
